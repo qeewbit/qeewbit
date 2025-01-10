@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600BC&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+MY+NAME+IS+SIMON;I'M+18+YEARS+OLD;I+AM+FROM+PORTUGAL)](https://git.io/typing-svg)
 
@@ -10,4 +10,4 @@
 <br>
 
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFBB&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600BC&height=120&section=footer"/>
